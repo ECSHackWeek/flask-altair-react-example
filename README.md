@@ -11,7 +11,7 @@ Install node/npm: https://nodejs.org/en/download/
 
 Use npm to install frontend dependencies:
 ```
-cd static
+cd example/static
 npm install
 ```
 
