@@ -35,3 +35,11 @@ conda activate example
 cd example
 python application.py
 ```
+
+In a web browser, go to the address
+
+http://0.0.0.0:5000/
+
+In the case where this address does not work, go to the address
+
+localhost:5000
