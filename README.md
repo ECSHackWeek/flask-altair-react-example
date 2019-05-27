@@ -29,7 +29,7 @@ In one terminal window start webpack:
 npm run watch
 ```
 
-In a second terminal window, start flask server:
+In a second terminal window go into the `flask-altair-react-example` directory, start flask server:
 ```
 conda activate example
 cd example
