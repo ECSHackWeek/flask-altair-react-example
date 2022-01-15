@@ -34,7 +34,7 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "popper.js": "^1.14.7"
   }
 }
